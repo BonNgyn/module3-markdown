@@ -18,4 +18,4 @@ could set
 it on fire”
 ― Rupi Kaur
 
-['https://www.goodreads.com/author/quotes/8075577.Rupi_Kaur'] (https://www.goodreads.com/author/quotes/8075577.Rupi_Kaur)
+[https://www.goodreads.com/author/quotes/8075577.Rupi_Kaur] (https://www.goodreads.com/author/quotes/8075577.Rupi_Kaur)
