@@ -10,7 +10,7 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 | **INFO 201** | _Technical Foundations_ | Joel Ross |
 
 
-| **MATH 307** | _Introduction into Differential Equations_	|
+| **MATH 307** | _Introduction into Differential Equations_	| Malik Younsi |
 | --- | --- |
 | **DRAMA 101**	| _Introduction into Drama and Theatre_	|
 | `**text**`	| **bolded** with two asterisks	|
