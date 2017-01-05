@@ -9,4 +9,3 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 | **MATH 307** | _Introduction into Differential Equations_ | Malik Younsi |
 | **DRAMA 101** | _Introduction into Drama and Theatre_ | Monica |
 | **INFO 201** | _Technical Foundations_ | Joel Ross |
-| test | test | test |
