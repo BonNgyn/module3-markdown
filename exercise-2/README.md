@@ -12,6 +12,6 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 | **MATH 307** | _Introduction into Differential Equations_	|
 | --- | --- |
-| `_text_`	| _italicized_ with underscores	|
+| **DRAMA 101**	| _Introduction into Drama and Theatre_	|
 | `**text**`	| **bolded** with two asterisks	|
 | ``` `text` ``` | inline `code` with backticks	|
