@@ -15,3 +15,12 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 > pwd
 > /users/username/desktop
 - used to figure out where you are in the system
+
+#cd (change directory)
+> _Example:_ while on desktop
+> cd FolderName
+> pwd
+> /users/username/desktop/FolderName
+- used to change into another directory 
+- add .. to change to the parent directory 
+
