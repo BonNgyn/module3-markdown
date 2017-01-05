@@ -10,8 +10,10 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 | **INFO 201** | _Technical Foundations_ | Joel Ross |
 
 
-| **MATH 307** | _Introduction into Differential Equations_	| Malik Younsi |
-| --- | --- |
-| **DRAMA 101**	| _Introduction into Drama and Theatre_	|
-| `**text**`	| **bolded** with two asterisks	|
-| ``` `text` ``` | inline `code` with backticks	|
+| **MATH 307** | _Introduction into Differential Equations_ | Malik Younsi |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
